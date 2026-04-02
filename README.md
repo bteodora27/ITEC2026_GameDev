@@ -1,4 +1,5 @@
 # 💸 CREDE-MĂ, FRATE! 💸
+🏆 CÂȘTIGĂTORUL LOCULUI 1 LA iTEC 2026 - GAME DEVELOPMENT! 🏆
 
 **Un joc de management, supraviețuire și antreprenoriat... dubios. Creat pentru iTEC2026 - Game Development.**
 
